@@ -1,3 +1,5 @@
 This will be a collaboration.
 
 The idea for my capstone project is about hot wings (Stefano).
+
+My project is to analyse a global cancer patient dataset from 2015-2024 (Negar). 
